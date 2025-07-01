@@ -1,0 +1,57 @@
+{
+  "groups": [
+    {
+      "name": "",
+      "type": "com.SmsCallback.InternalRestRequest.ClientProperties",
+      "sourceType": "com.SmsCallback.InternalRestRequest.ClientProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "client-body",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.SmsCallback.InternalRestRequest.ClientProperties"
+    },
+    {
+      "name": "client-method",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.SmsCallback.InternalRestRequest.ClientProperties"
+    },
+    {
+      "name": "client-url",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.SmsCallback.InternalRestRequest.ClientProperties"
+    },
+    {
+      "name": "ftp.host.saveDailReport",
+      "type": "java.lang.String",
+      "description": "A description for 'ftp.host.saveDailReport'"
+    },
+    {
+      "name": "header",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.SmsCallback.InternalRestRequest.HeaderProperties"
+    },
+    {
+      "name": "rcsFonada.leadApi",
+      "type": "java.lang.String",
+      "description": "A description for 'rcsFonada.leadApi'"
+    },
+    {
+      "name": "vi.authorization",
+      "type": "java.lang.String",
+      "description": "A description for 'vi.authorization'"
+    },
+    {
+      "name": "vi.grant_type",
+      "type": "java.lang.String",
+      "description": "A description for 'vi.grant_type'"
+    },
+    {
+      "name": "vi.tokenApi",
+      "type": "java.lang.String",
+      "description": "A description for 'vi.tokenApi'"
+    }
+  ],
+  "hints": []
+}

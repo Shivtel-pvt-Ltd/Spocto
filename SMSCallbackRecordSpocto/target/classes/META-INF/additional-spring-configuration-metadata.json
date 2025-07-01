@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "vi.tokenApi",
+    "type": "java.lang.String",
+    "description": "A description for 'vi.tokenApi'"
+  },
+  {
+    "name": "vi.authorization",
+    "type": "java.lang.String",
+    "description": "A description for 'vi.authorization'"
+  },
+  {
+    "name": "vi.grant_type",
+    "type": "java.lang.String",
+    "description": "A description for 'vi.grant_type'"
+  },
+  {
+    "name": "rcsFonada.leadApi",
+    "type": "java.lang.String",
+    "description": "A description for 'rcsFonada.leadApi'"
+  },
+  {
+    "name": "ftp.host.saveDailReport",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.host.saveDailReport'"
+  },
+  {
+    "name": "ftp.host.saveDailReport",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.host.saveDailReport'"
+  }
+]}
